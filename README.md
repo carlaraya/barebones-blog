@@ -8,3 +8,6 @@
 * Install [Docker and Docker Compose](https://github.com/carlaraya/docker-instructions)
 * Install a [markdown editor](https://github.com/karthik/markdown_science/wiki/Tools-to-support-your-markdown-authoring) for writing documentation. I use [markright](https://github.com/dvcrn/markright) (all platforms)
 * Create a github repo and push code.
+* Add gitignore file.
+* Add Dockerfile, docker-compose.yml, and .dockerignore
+	* Make sure app is running well in Docker at this point
